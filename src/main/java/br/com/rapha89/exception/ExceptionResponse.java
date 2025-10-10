@@ -1,4 +1,4 @@
-package br.com.erudio.exception;
+package br.com.rapha89.exception;
 
 import java.util.Date;
 
